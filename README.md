@@ -1,8 +1,10 @@
 # Netflix GPT
 
-# Setting up
-    - create react app
-    - install Tailwind
+- create react app
+- install Tailwind
+- Routing
+- Login/signup page
+
 
 # Roadmap
     - Sign in/ Signup page
