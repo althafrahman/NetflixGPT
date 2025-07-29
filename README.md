@@ -4,6 +4,13 @@
 - install Tailwind
 - Routing
 - Login/signup page
+- Form validation
+- useref hook
+- firebase setup
+- Deploying app to firebase
+- Singup/Sign in functionality
+- Error handling in signIn/SignUp
+
 
 
 # Roadmap
